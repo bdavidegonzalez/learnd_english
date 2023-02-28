@@ -168,7 +168,7 @@ export const App = () => {
 						<h1>Practice the alphabet</h1>
 
 						<div>
-							<img src={avocado} alt="" />
+							<img src="https://hdvdavidv1.s3.us-east-2.amazonaws.com/learn_english/avocado.png" alt="" />
 							<div className="col-md-2">
 								<p>This word starts with the letter __ (ei)</p>
 								<input
@@ -183,7 +183,7 @@ export const App = () => {
 						</div>
 
 						<div>
-							<img src={candle} alt="" />
+							<img src="https://hdvdavidv1.s3.us-east-2.amazonaws.com/learn_english/candle.png" alt="" />
 							<div className="col-md-2">
 								<p>This word starts with the letter __ </p>
 								<input
@@ -198,7 +198,7 @@ export const App = () => {
 						</div>
 
 						<div>
-							<img src={popcorn} alt="" />
+							<img src="https://hdvdavidv1.s3.us-east-2.amazonaws.com/learn_english/popcorn.png" alt="" />
 							<div className="col-md-2">
 								<p>This word starts with the letter __</p>
 								<input
@@ -213,7 +213,7 @@ export const App = () => {
 						</div>
 
 						<div>
-							<img src={keys} alt="" />
+							<img src="https://hdvdavidv1.s3.us-east-2.amazonaws.com/learn_english/keys.png" alt="" />
 							<div className="col-md-2">
 								<p>This word starts with the letter __</p>
 								<input
@@ -228,7 +228,7 @@ export const App = () => {
 						</div>
 
 						<div>
-							<img src={orange} alt="" />
+							<img src="https://hdvdavidv1.s3.us-east-2.amazonaws.com/learn_english/orange.png" alt="" />
 							<div className="col-md-2">
 								<p>This word starts with the letter __ </p>
 								<input
@@ -243,7 +243,7 @@ export const App = () => {
 						</div>
 
 						<div>
-							<img src={umbrella} alt="" />
+							<img src="https://hdvdavidv1.s3.us-east-2.amazonaws.com/learn_english/umbrella.png" alt="" />
 							<div className="col-md-2">
 								<p>This word starts with the letter __ </p>
 								<input
@@ -258,7 +258,7 @@ export const App = () => {
 						</div>
 
 						<div>
-							<img src={yoga} alt="" />
+							<img src="https://hdvdavidv1.s3.us-east-2.amazonaws.com/learn_english/yoga.png" alt="" />
 							<div className="col-md-2">
 								<p>This word starts with the letter __ </p>
 								<input
